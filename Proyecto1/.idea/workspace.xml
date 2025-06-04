@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a65a782d-7179-46e6-ade4-1c169de6bcb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeraClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Acceso_applicacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Acceso_applicacion2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Acceso_applicacion3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Adivina_numero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Adivina_numero2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Areas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Areas2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Arrays_bidimensionales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Calculos_conMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Comprueba_mail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Declaraciones_Operadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Entrada_ejemplo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Entrada_metodosII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Evalua_edad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Evalua_edad2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Peso_ideal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PrimeraClase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Uso_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Uso_Arrays_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Uso_Bucle_For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Uso_Tallas$Talla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Uso_Tallas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/manipula_cadenas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/manipula_cadenasII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/manipula_cadenas_III.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Coche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Empleado2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Empleados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Furgoneta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Jefatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Jefes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Pruebas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Uso_Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Uso_Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/poo/Uso_Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Acceso_applicacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Acceso_applicacion2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Acceso_applicacion3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Adivina_numero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Adivina_numero2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Areas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Areas2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Arrays_bidimensionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Calculos_conMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Comprueba_mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Declaraciones_Operadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Entrada_ejemplo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Entrada_metodosII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Evalua_edad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Evalua_edad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Peso_ideal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/PrimeraClase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Uso_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Uso_Arrays_II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Uso_Bucle_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Uso_Tallas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/manipula_cadenas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/manipula_cadenasII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/manipula_cadenas_III.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Furgoneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Jefes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Pruebas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Uso_Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Uso_Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/poo/Uso_Vehiculo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2y3tdFJgxAAgIMzZA2J1U2lXoDy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PrimeraClase.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65a782d-7179-46e6-ade4-1c169de6bcb8" name="Changes" comment="" />
+      <created>1749075171983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749075171983</updated>
+    </task>
+    <servers />
+  </component>
+</project>
